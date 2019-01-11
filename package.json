@@ -10,7 +10,7 @@
   "categories": [
     "Extension Packs"
   ],
-  "icon": "https://github.com/jamesqquick/CSS-Essentials-Extension-Pack/blob/master/images/icon.png",
+  "icon": "https://raw.githubusercontent.com/jamesqquick/CSS-Essentials-Extension-Pack/master/images/icon.png",
   "extensionDependencies": [
     "ecmel.vscode-html-css",
     "pranaygp.vscode-css-peek",
