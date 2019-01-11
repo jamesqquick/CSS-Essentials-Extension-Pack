@@ -14,7 +14,7 @@
     "type": "git",
     "url": "https://github.com/jamesqquick/CSS-Essentials-Extension-Pack"
   },
-  "icon": "https://github.com/jamesqquick/CSS-Essentials-Extension-Pack/blob/master/images/icon.png?raw=true",
+  "icon": "images/icon.png",
   "extensionDependencies": [
     "ecmel.vscode-html-css",
     "pranaygp.vscode-css-peek",
