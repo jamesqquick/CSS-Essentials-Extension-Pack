@@ -10,6 +10,10 @@
   "categories": [
     "Extension Packs"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamesqquick/CSS-Essentials-Extension-Pack"
+  },
   "icon": "https://raw.githubusercontent.com/jamesqquick/CSS-Essentials-Extension-Pack/master/images/icon.png",
   "extensionDependencies": [
     "ecmel.vscode-html-css",
